@@ -21,3 +21,11 @@ This repository is intended to capture additional ideas that are not part of the
 3. **Contribute**
    * IBMers: [Learn](https://w3.ibm.com/developer/opensource/learn/certify/) about open source and [certify](https://yourlearning.ibm.com/activity/EL01-00001160) before contributing.
    * [Open issues](CONTRIBUTING.md#opening-issues), [submit pull requests](CONTRIBUTING.md#submitting-pull-requests), or [edit the wiki](CONTRIBUTING.md#editing-the-wiki) for this repository.
+
+## Support
+
+Find help on the [Support](SUPPORT.md) page.
+
+## License
+
+This solution starter is made available under the [Apache 2 License](LICENSE).
