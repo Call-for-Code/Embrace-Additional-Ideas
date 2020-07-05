@@ -1,1 +1,23 @@
-# Emb-Race-General-Ideas
+# Emb(race): Additional ideas
+
+Technology has the power to drive action. And right now, a call to action is needed to eradicate racism. **Black lives matter.**
+
+We recognize technology alone cannot fix hundreds of years of racial injustice and inequality, but when we put it in the hands of the Black community and their supporters, technology can begin to bridge a gap. To start a dialogue. To identify areas where technology can help pave a road to progress.
+
+This project comlplements three open source projects underway as part of the [Call for Code Emb(race) Spot Challenge](https://github.com/topics/embrace-call-for-code) led by contributors from IBM and Red Hat.
+
+This repository is intended to capture additional ideas that are not part of the three focus areas.
+
+## Contribute to this effort
+
+1. **Engage**
+   * Understand the [problem statements](#problem-statements) in this solution starter GitHub repository.   
+   * Connect with colleagues in [Slack](SLACK.md) to join one of the teams working on solutions to this problem.
+
+2. **Envision**
+   * Imagine the measurable end result of a technology innovation for one of the problem statements.
+   * Plot a path from the current situation to that outcome. You can use [Mural](https://www.mural.co/) and [Slack](SLACK.md) to collaborate.
+
+3. **Contribute**
+   * IBMers: [Learn](https://w3.ibm.com/developer/opensource/learn/certify/) about open source and [certify](https://yourlearning.ibm.com/activity/EL01-00001160) before contributing.
+   * [Open issues](CONTRIBUTING.md#opening-issues), [submit pull requests](CONTRIBUTING.md#submitting-pull-requests), or [edit the wiki](CONTRIBUTING.md#editing-the-wiki) for this repository.
