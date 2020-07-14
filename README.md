@@ -8,6 +8,16 @@ This project comlplements three open source projects underway as part of the [Ca
 
 This repository is intended to capture additional ideas that are not part of the three focus areas.
 
+## Goal for this project
+
+The desired outcome of this effort is to create a technology solution that can
+have a measurable impact the problem statements and hills below. That solution
+can then be put to work within IBM and Red Hat, as well as society at large.
+
+As an example, this repository will evolve into a piece of technology that can
+be created and deployed, similar to the steps for other [Call for Code starter
+kits](https://github.com/Call-for-Code).
+
 ## Contribute to this effort
 
 1. **Engage**
