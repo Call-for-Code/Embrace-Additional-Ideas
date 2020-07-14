@@ -10,7 +10,7 @@ This repository is intended to capture additional ideas that are not part of the
 
 ## Goal for this project
 
-The desired outcome of this effort is to create a technology solution that can
+The desired outcome of this effort an open source technology solution that can
 have a measurable impact the problem statements and hills below. That solution
 can then be put to work within IBM and Red Hat, as well as society at large.
 
